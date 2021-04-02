@@ -1,0 +1,14 @@
+{
+    "base": "0x00000000",
+    "board": "",
+    "cmdline": "bootopt=64S3,32N2,64N2 buildvariant=user",
+    "dtb_offset": "0x000000004bc80000",
+    "header_version": "2",
+    "kernel_offset": "0x40080000",
+    "os_patch_level": "2021-03",
+    "os_version": "11.0.0",
+    "pagesize": "0x00000800",
+    "ramdisk_offset": "0x47c80000",
+    "second_offset": "0x00000000",
+    "tags_offset": "0x4bc80000"
+}
