@@ -1,0 +1,21 @@
+boot magic: ANDROID!
+kernel_size: 11072454
+kernel load address: 0x40080000
+ramdisk size: 26746847
+ramdisk load address: 0x47c80000
+second bootloader size: 0
+second bootloader load address: 0x00000000
+kernel tags load address: 0x4bc80000
+page size: 2048
+os version: 127.0.0
+os patch level: 2127-12
+boot image header version: 2
+product name: 
+command line args: bootopt=64S3,32N2,64N2 androidboot.selinux=permissive loop.max_part=70 androidboot.init_fatal_reboot_target=bootloader buildvariant=eng
+additional command line args: 
+recovery dtbo size: 179076
+recovery dtbo offset: 0x0000000002412000
+boot header size: 1660
+dtb size: 112403
+dtb address: 0x000000004bc80000
+ramdisk format: gzip
